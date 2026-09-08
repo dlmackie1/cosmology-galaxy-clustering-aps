@@ -39,3 +39,6 @@ graph TD
     K --> L[Covariance Matrix Computation]:::output
     L --> M([Cosmological Parameter Inference]):::output
 ```
+### Presentation Slides
+You can download the senior seminar presentation here:
+[Download senior seminar presentation (PPTX)](senior-seminar presentation-slides.pptx)
