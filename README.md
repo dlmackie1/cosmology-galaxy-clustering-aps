@@ -1,4 +1,5 @@
-# cosmology-galaxy-clustering-aps
+# Senior Research: Cosmology Galaxy Clustering APS
+Welcome! This repository hosts the data pipeline, simulation architectures, and results for my senior research using DELVE and SDSS survey data.
 ```mermaid
 graph TD
     %% Custom Styling
